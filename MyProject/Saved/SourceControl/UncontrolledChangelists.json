@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/NewMap.umap",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_sun.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_mercury.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_venus_surface.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_mars.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_jupiter.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_saturn.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_uranus.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_neptune.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_earth_daymap.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_sun_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_earth_clouds.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_earth_specular_map.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_earth_normal_map.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_earth_nightmap.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_earth_daymap_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_venus_surface_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/8k_stars_milky_way.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/8k_stars_milky_way_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_saturn_ring_alpha.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/saturn_ring.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Material_001.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Blueprint/Terra_Blueprint.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Blueprint/Mercurio_Blueprint.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_jupiter_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_mars_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_mercury_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_neptune_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_saturn_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/2k_saturn_ring_alpha.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_uranus_Mat.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Levels/NewMap.umap",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Blueprint/Manager.uasset",
+				"C:/Users/ra00334160/Documents/Unreal Projects/MyProject/Content/Textures/2k_venus_atmosphere.uasset"
+			]
+		}
+	]
+}
