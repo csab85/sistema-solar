@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Faculdade\4 Semestre\sistema-solar\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"E:\Faculdade\4 Semestre\sistema-solar\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
+"E:\Faculdade\4 Semestre\sistema-solar\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyClass.cpp.obj"
+"E:\Faculdade\4 Semestre\sistema-solar\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Default.rc2.res"
+/OUT:"E:\Faculdade\4 Semestre\sistema-solar\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\UnrealEditor-MyProject.lib"
