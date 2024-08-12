@@ -1,0 +1,1 @@
+O Projeto é um arquivo da Unreal 5 simulando o sistema solar. A rotação e translação dos planetas são feitas em blueprint, e as velocidades são relativas à da Terra como unidade (os valores translação estão divididos por 4 para não ficar tão rápido)
